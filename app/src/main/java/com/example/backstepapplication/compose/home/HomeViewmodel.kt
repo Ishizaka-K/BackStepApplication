@@ -1,4 +1,6 @@
 package com.example.backstepapplication.compose.home
 
-class HomeViewmodel {
+import androidx.lifecycle.ViewModel
+
+class HomeViewmodel:ViewModel() {
 }

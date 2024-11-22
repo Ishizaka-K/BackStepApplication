@@ -1,4 +1,6 @@
 package com.example.backstepapplication.compose.shlide_tile
 
-class SlideTileViewModel {
+import androidx.lifecycle.ViewModel
+
+class SlideTileViewModel:ViewModel() {
 }
